@@ -1,0 +1,120 @@
+body {background-color: #EFF0F3!important}
+
+.form-check-input[type=checkbox]:checked {
+    background-color: #1266f1;
+}
+
+.form-check-input[type=checkbox] {
+    border-radius: 0.25rem;
+    margin-top: 0.19em;
+    margin-right: 6px;
+}
+
+.form-check-input:checked {
+    border-color: #1266f1;
+}
+
+.form-check-input {
+    position: relative;
+    width: 1.125rem;
+    height: 1.125rem;
+    background-color: #fff;
+    border: 0.125rem solid rgba(0,0,0,.25);
+	cursor: pointer;
+}
+
+.form-check-input {
+    width: 1em;
+    height: 1em;
+    margin-top: 0.3em;
+    vertical-align: top;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+    border: 1px solid rgba(0,0,0,.25);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+}
+
+.form-check-input:checked[type=checkbox] {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10l3 3 6-6'/%3E%3C/svg%3E");
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+}
+
+.align-items-center {
+    align-items: center!important;
+}
+
+.justify-content-center {
+    justify-content: center!important;
+}
+
+.d-flex {
+    display: flex!important;
+}
+
+.form-outline {
+    position: relative;
+}
+
+.ms-2 {
+    margin-left: 0.5rem!important;
+}
+
+.form-control-lg {
+    font-size: 1rem!important;
+}
+
+.btn-lg {
+    font-size: 1rem!important;
+}
+
+.list-group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    border-radius: 0.5rem;
+}
+
+.rounded-0 {
+    border-radius: 0!important;
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem!important;
+}
+
+.border-start-0 {
+    border-left: 0!important;
+}
+
+.border-end-0 {
+    border-right: 0!important;
+}
+
+.border-top-0 {
+    border-top: 0!important;
+}
+
+
+.label_task{
+	padding-left:10px;
+}
+
+p.lead.fw-normal.mb-0.me-3 {
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+.exit{
+	position: absolute;
+	top:3rem;
+	right:3rem;
+}
