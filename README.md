@@ -1,2 +1,3 @@
 # todo-list
-Web application for maintaining personal to-do lists and tasks
+# Веб-приложение на PHP для ведения личных списков дел и задач
+Подробности https://vk.com/wall-213632390?q=%23scripts&w=wall-213632390_46
